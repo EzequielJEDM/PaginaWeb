@@ -1,0 +1,53 @@
+.titulo-principal{
+    text-align: center;
+}
+
+#barberia{
+    width: 100%;
+    
+}
+
+.principal{
+    background-color:  #cccc;
+    padding: 20px;
+}
+
+.titulo-center{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    background-color:  #cccc;
+}
+
+
+em strong{
+    color: red;
+}
+
+#objetivo{
+    font-size: 20px;
+}
+
+
+.lista{
+    background: white;
+    font-style: italic;
+    padding: 30px;    
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenBarberia{
+    width: 50%;
+}
+
+
+
+    
